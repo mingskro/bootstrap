@@ -1,6 +1,6 @@
 languageCode:           "ko"
 title:                  "Bootstrap"
-baseURL:                "https://getbootstrap.com"
+baseURL:                "https://test.gumings.kro.kr"
 
 security:
   enableInlineShortcodes: true
